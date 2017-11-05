@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.41.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="13" family="Times" color="#908b8b"/>
+	<fontspec id="1" size="14" family="Times" color="#8493a0"/>
+	<fontspec id="2" size="16" family="Times" color="#8493a0"/>
+	<fontspec id="3" size="10" family="Times" color="#999999"/>
+	<fontspec id="4" size="13" family="Helvetica" color="#000000"/>
+	<fontspec id="5" size="43" family="Helvetica" color="#8493a0"/>
+	<fontspec id="6" size="13" family="Helvetica" color="#ffffff"/>
+	<fontspec id="7" size="10" family="Helvetica" color="#777777"/>
+	<fontspec id="8" size="12" family="Helvetica" color="#000000"/>
+<image top="0" left="0" width="918" height="1188" src="/home/mohit/Desktop/vendor2.html-1_1.jpg"/>
+<image top="0" left="0" width="916" height="181" src="/home/mohit/Desktop/vendor2.html-1_2.jpg"/>
+<image top="1126" left="770" width="88" height="46" src="/home/mohit/Desktop/vendor2.html-1_3.jpg"/>
+<text top="255" left="53" width="58" height="20" font="0">Billed To </text>
+<text top="255" left="316" width="105" height="20" font="0">Invoice Number </text>
+<text top="338" left="316" width="92" height="20" font="0">Date Of Issue </text>
+<text top="490" left="55" width="86" height="22" font="1">Description </text>
+<text top="1018" left="50" width="92" height="20" font="0">Invoice Terms </text>
+<text top="490" left="486" width="72" height="22" font="1">Unit Cost </text>
+<text top="490" left="630" width="29" height="22" font="1">Qty </text>
+<text top="487" left="660" width="10" height="25" font="2"><i>I </i></text>
+<text top="490" left="670" width="60" height="22" font="1">Hr Rate </text>
+<text top="901" left="623" width="64" height="22" font="1">Subtotal </text>
+<text top="937" left="658" width="30" height="22" font="1">Tax </text>
+<text top="974" left="649" width="38" height="22" font="1">Total </text>
+<text top="1047" left="541" width="146" height="22" font="1">Amount Due (USD) </text>
+<text top="255" left="789" width="83" height="20" font="0">Invoice Total </text>
+<text top="490" left="796" width="61" height="22" font="1">Amount </text>
+<text top="1146" left="589" width="170" height="16" font="3">This invoice is brought to you by</text>
+<text top="319" left="56" width="99" height="14" font="4">Street Address</text>
+<text top="347" left="56" width="130" height="14" font="4">City, State, Country</text>
+<text top="290" left="56" width="82" height="14" font="4">Client Name</text>
+<text top="376" left="56" width="71" height="14" font="4">ZIP CODE</text>
+<text top="290" left="317" width="42" height="14" font="4">00001</text>
+<text top="370" left="317" width="75" height="14" font="4">21/08/2016</text>
+<text top="292" left="682" width="188" height="42" font="5">$4520.00</text>
+<text top="47" left="765" width="105" height="14" font="6">123 Your Street</text>
+<text top="75" left="740" width="130" height="14" font="6">City, State, Country</text>
+<text top="103" left="807" width="63" height="14" font="6">ZIP Code</text>
+<text top="47" left="503" width="93" height="14" font="6">564-555-1234</text>
+<text top="75" left="484" width="113" height="14" font="6">your@email.com</text>
+<text top="103" left="484" width="113" height="14" font="6">yourwebsite.com</text>
+<text top="47" left="59" width="144" height="14" font="6">Your Company Name</text>
+<text top="549" left="56" width="109" height="14" font="4">Your Item Name</text>
+<text top="577" left="56" width="141" height="11" font="7">Item description goes here</text>
+<text top="549" left="512" width="42" height="14" font="4">$1000</text>
+<text top="550" left="717" width="8" height="14" font="4">1</text>
+<text top="550" left="812" width="42" height="14" font="4">$1000</text>
+<text top="624" left="56" width="109" height="14" font="4">Your Item Name</text>
+<text top="652" left="56" width="141" height="11" font="7">Item description goes here</text>
+<text top="624" left="512" width="42" height="14" font="4">$1000</text>
+<text top="624" left="717" width="8" height="14" font="4">1</text>
+<text top="625" left="812" width="42" height="14" font="4">$1000</text>
+<text top="699" left="56" width="109" height="14" font="4">Your Item Name</text>
+<text top="727" left="56" width="141" height="11" font="7">Item description goes here</text>
+<text top="699" left="512" width="42" height="14" font="4">$1000</text>
+<text top="699" left="717" width="8" height="14" font="4">1</text>
+<text top="700" left="812" width="42" height="14" font="4">$1000</text>
+<text top="775" left="56" width="109" height="14" font="4">Your Item Name</text>
+<text top="803" left="56" width="141" height="11" font="7">Item description goes here</text>
+<text top="775" left="512" width="42" height="14" font="4">$1000</text>
+<text top="775" left="717" width="8" height="14" font="4">1</text>
+<text top="776" left="812" width="42" height="14" font="4">$1000</text>
+<text top="905" left="812" width="42" height="14" font="4">$4000</text>
+<text top="942" left="820" width="33" height="14" font="4">$520</text>
+<text top="978" left="791" width="63" height="14" font="8">$4520.00</text>
+<text top="1052" left="791" width="63" height="14" font="4">$4520.00</text>
+<text top="1053" left="52" width="159" height="14" font="4">Ex. Please invoice by... </text>
+<text top="1070" left="52" width="4" height="14" font="4"> </text>
+<text top="1088" left="52" width="237" height="14" font="4">It was a pleasure working with you. </text>
+</page>
+</pdf2xml>

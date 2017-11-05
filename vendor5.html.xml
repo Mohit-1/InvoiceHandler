@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.41.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="14" family="Times" color="#000000"/>
+	<fontspec id="1" size="14" family="Times" color="#000000"/>
+	<fontspec id="2" size="12" family="Times" color="#000000"/>
+	<fontspec id="3" size="11" family="Times" color="#000000"/>
+	<fontspec id="4" size="30" family="Times" color="#000000"/>
+<text top="191" left="51" width="21" height="14" font="0"><b>To,</b></text>
+<text top="212" left="51" width="113" height="12" font="0"><b>TechGuruPlus</b></text>
+<text top="233" left="51" width="145" height="14" font="1">H-153, Sarita Vihar,</text>
+<text top="255" left="51" width="135" height="14" font="1">New Delhi-110076</text>
+<text top="255" left="681" width="161" height="15" font="1">Invoice No:  53/2017-18</text>
+<text top="276" left="51" width="217" height="12" font="2">GSTIN: 07PDUJS4678K1Z4  </text>
+<text top="277" left="706" width="135" height="15" font="1">Date    :  14-08-2017</text>
+<text top="320" left="69" width="36" height="14" font="0"><b>S.No.</b></text>
+<text top="320" left="248" width="78" height="14" font="0"><b>Description</b></text>
+<text top="320" left="470" width="71" height="14" font="0"><b>HSN CODE</b></text>
+<text top="320" left="584" width="28" height="14" font="0"><b>QTY</b></text>
+<text top="320" left="663" width="31" height="14" font="0"><b>Rate</b></text>
+<text top="320" left="755" width="56" height="14" font="0"><b>Amount</b></text>
+<text top="366" left="83" width="8" height="15" font="1">1</text>
+<text top="366" left="232" width="111" height="15" font="1">EVENT CHARGES</text>
+<text top="366" left="472" width="67" height="15" font="1">85013410</text>
+<text top="366" left="594" width="8" height="15" font="1">1</text>
+<text top="366" left="641" width="202" height="15" font="1">  29,800.00               29,800.00 </text>
+<text top="388" left="783" width="67" height="15" font="1">                  </text>
+<text top="714" left="723" width="115" height="14" font="0"><b>            29,800.00 </b></text>
+<text top="737" left="723" width="118" height="14" font="0"><b>               2,682.00 </b></text>
+<text top="760" left="723" width="118" height="14" font="0"><b>               2,682.00 </b></text>
+<text top="782" left="723" width="115" height="14" font="0"><b>            35,164.00 </b></text>
+<text top="804" left="51" width="453" height="15" font="1">Rupees : - Thirty Five Thousand One Hundred And Sixty Four  Only/-</text>
+<text top="872" left="60" width="55" height="12" font="3"><b>E. &amp;. O. E.</b></text>
+<text top="889" left="51" width="31" height="12" font="0"><b>For </b></text>
+<text top="889" left="82" width="151" height="16" font="0"><b>Allied Marketing</b></text>
+<text top="978" left="51" width="148" height="14" font="0"><b>Authorized Signatory </b></text>
+<text top="737" left="600" width="117" height="14" font="0"><b>Add : CGST @ 9%</b></text>
+<text top="760" left="601" width="116" height="14" font="0"><b>Add : SGST @ 9%</b></text>
+<text top="782" left="637" width="81" height="14" font="0"><b>Grand Total</b></text>
+<text top="45" left="296" width="302" height="32" font="4"><b>Allied Marketing</b></text>
+<text top="82" left="368" width="157" height="12" font="2">WZ-505 RAJ NAGAR </text>
+<text top="104" left="354" width="186" height="12" font="2">PART -I PALAM COLONY </text>
+<text top="126" left="375" width="145" height="12" font="2">New Delhi -110045</text>
+<text top="147" left="345" width="204" height="12" font="2">GSTIN: 07PTAFF9867H1Z4</text>
+<text top="714" left="623" width="94" height="14" font="0"><b>Total Amount</b></text>
+</page>
+</pdf2xml>

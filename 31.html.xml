@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.41.0">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="13" family="Times" color="#212121"/>
+	<fontspec id="1" size="12" family="Times" color="#817d7d"/>
+	<fontspec id="2" size="25" family="Times" color="#212121"/>
+	<fontspec id="3" size="13" family="Times" color="#212121"/>
+	<fontspec id="4" size="38" family="Times" color="#000000"/>
+	<fontspec id="5" size="13" family="Times" color="#817d7d"/>
+	<fontspec id="6" size="9" family="Times" color="#333333"/>
+	<fontspec id="7" size="16" family="Times" color="#333333"/>
+	<fontspec id="8" size="11" family="Times" color="#333333"/>
+	<fontspec id="9" size="11" family="Times" color="#817d7d"/>
+	<fontspec id="10" size="11" family="Times" color="#212121"/>
+	<fontspec id="11" size="13" family="Times" color="#ffffff"/>
+	<fontspec id="12" size="11" family="Times" color="#474747"/>
+	<fontspec id="13" size="14" family="Times" color="#474747"/>
+	<fontspec id="14" size="11" family="Times" color="#474747"/>
+	<fontspec id="15" size="13" family="Times" color="#747474"/>
+	<fontspec id="16" size="9" family="Times" color="#dddddd"/>
+<text top="123" left="59" width="96" height="20" font="0"><b>Hummingbill</b></text>
+<text top="146" left="59" width="130" height="18" font="1">Ph No: 9008670399</text>
+<text top="40" left="376" width="138" height="34" font="2">Tax Invoice</text>
+<text top="85" left="340" width="210" height="20" font="3">Original / Duplicate / Triplicate</text>
+<text top="40" left="664" width="167" height="50" font="4">INVOICE</text>
+<text top="92" left="659" width="172" height="20" font="5"><b>Invoice No# INV002140</b></text>
+<text top="137" left="763" width="68" height="15" font="6"><b>Balance Due</b></text>
+<text top="154" left="773" width="12" height="21" font="7"><b>₹</b></text>
+<text top="153" left="786" width="45" height="23" font="7"><b>45.76</b></text>
+<text top="224" left="59" width="57" height="18" font="1">Billed To</text>
+<text top="245" left="59" width="87" height="20" font="3">Hummingbill</text>
+<text top="266" left="59" width="89" height="17" font="8">Tax ID: HB221</text>
+<text top="227" left="585" width="79" height="17" font="9">Invoice Date:</text>
+<text top="227" left="755" width="76" height="17" font="10">22-Jun-2016</text>
+<text top="250" left="557" width="107" height="17" font="9">Invoice Due Date:</text>
+<text top="250" left="760" width="71" height="17" font="10">22-Jul-2016</text>
+<text top="339" left="66" width="32" height="20" font="11">Sno.</text>
+<text top="339" left="133" width="129" height="20" font="11">Item &amp; Description</text>
+<text top="339" left="468" width="25" height="20" font="11">Qty</text>
+<text top="339" left="534" width="33" height="20" font="11">Rate</text>
+<text top="339" left="668" width="54" height="20" font="11">Amount</text>
+<text top="374" left="66" width="7" height="17" font="12">1</text>
+<text top="373" left="133" width="51" height="22" font="13"><b>Salary</b></text>
+<text top="374" left="468" width="7" height="17" font="12">1</text>
+<text top="374" left="534" width="9" height="16" font="12">₹</text>
+<text top="374" left="543" width="34" height="17" font="12">40.00</text>
+<text top="374" left="668" width="9" height="16" font="12">₹</text>
+<text top="374" left="677" width="34" height="17" font="12">45.76</text>
+<text top="471" left="401" width="34" height="17" font="12">Total:</text>
+<text top="472" left="670" width="10" height="18" font="3">₹</text>
+<text top="472" left="680" width="39" height="20" font="3">45.76</text>
+<text top="507" left="399" width="136" height="17" font="12">Total Taxable Amount:</text>
+<text top="508" left="679" width="10" height="18" font="3">₹</text>
+<text top="508" left="689" width="39" height="20" font="3">45.76</text>
+<text top="542" left="399" width="86" height="17" font="14"><b>Balance Due:</b></text>
+<text top="544" left="679" width="10" height="18" font="3">₹</text>
+<text top="544" left="689" width="39" height="20" font="3">45.76</text>
+<text top="596" left="59" width="41" height="20" font="15">Notes</text>
+<text top="675" left="59" width="138" height="20" font="15">Terms &amp; Conditions</text>
+<text top="757" left="382" width="128" height="14" font="16">Powered by Hummingbill.</text>
+</page>
+<outline>
+<item page="1">Tax Invoice</item>
+<item page="1">INVOICE</item>
+</outline>
+</pdf2xml>
