@@ -1,8 +1,8 @@
 import MySQLdb as sql
 import re
 
-db = sql.connect(user="kredx",passwd="kredx",db="kredX",host="localhost")
-path = input("Enter the file path(eg- /home/mohit/Desktop/vendor1.html.xml)- ")
+db = sql.connect(user="user",passwd="password",db="db_name",host="localhost")
+path = input("Enter the file path(eg- /home/user/Desktop/vendor1.html.xml)- ")
 filename = (path.split('/')[-1]).split('.')[0]
 path = "'" + path + "'"
 filename = "'" + filename + "'"
