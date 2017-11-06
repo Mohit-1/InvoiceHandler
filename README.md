@@ -21,15 +21,27 @@ Automatically extract relevant data from invoices by processing their .pdf/.xml 
 1. Clone the repository.
 2. Create a new MySQL database and a user. (Credentials- database name = kredX, user = kredx, password = kredx, host = localhost)
 3. Create a new table -
+
    Name - *inputdata*
-   Attributes - *id*         int, primary key, auto_increment
+   
+   Attributes - 
+   
+                *id*         int, primary key, auto_increment
+   
                 *top*        int
+                
                 *height*     int
+                
                 *width*      int
+                
                 *left_mar*   int
+                
                 *tag_data*   varchar
+                
                 *extra*      varchar
+                
                 *fname*      varchar
+                
                 
 4. Run the *handler.py* script from the command line. 
    eg - ```python3 /path/to/handler.py```
