@@ -26,21 +26,21 @@ Automatically extract relevant data from invoices by processing their .pdf/.xml 
    
    Attributes - 
    
-                *id*         int, primary key, auto_increment
+      *id*         int, primary key, auto_increment
    
-                *top*        int
+      *top*        int
                 
-                *height*     int
+      *height*     int
                 
-                *width*      int
+      *width*      int
                 
-                *left_mar*   int
+      *left_mar*   int
                 
-                *tag_data*   varchar
+      *tag_data*   varchar
                 
-                *extra*      varchar
+      *extra*      varchar
                 
-                *fname*      varchar
+      *fname*      varchar
                 
                 
 4. Run the *handler.py* script from the command line. 
