@@ -6,9 +6,15 @@ Automatically extract relevant data from invoices by processing their .pdf/.xml 
 1. MySQL
 2. Python 3
 3. Install the Python and MySQL development headers and libraries-
+
    ```sudo apt-get install python-dev libmysqlclient-dev```
-   and ```sudo apt-get install python3-dev```
-4. Install mysqlclient- ```pip3 install mysqlclient```   
+   
+   and 
+   
+   ```sudo apt-get install python3-dev```
+   
+4. Install mysqlclient- 
+```pip3 install mysqlclient```   
 
 #### How to run it - 
 
