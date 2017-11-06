@@ -38,9 +38,9 @@ Automatically extract relevant data from invoices by processing their .pdf/.xml 
                 
          tag_data   varchar
                 
-      *extra*      varchar
+         extra      varchar
                 
-      *fname*      varchar
+         fname      varchar
                 
                 
 4. Run the *handler.py* script from the command line. 
