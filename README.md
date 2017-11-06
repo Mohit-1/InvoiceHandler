@@ -22,21 +22,21 @@ Automatically extract relevant data from invoices by processing their .pdf/.xml 
 2. Create a new MySQL database and a user. (Credentials- database name = kredX, user = kredx, password = kredx, host = localhost)
 3. Create a new table -
 
-   Name - *inputdata*
+   Name -   *inputdata*
    
    Attributes - 
    
-      *id*         int, primary key, auto_increment
+         id         int, primary key, auto_increment
    
-      *top*        int
+         top        int
                 
-      *height*     int
+         height     int
                 
-      *width*      int
+         width      int
                 
-      *left_mar*   int
+         left_mar   int
                 
-      *tag_data*   varchar
+         tag_data   varchar
                 
       *extra*      varchar
                 
