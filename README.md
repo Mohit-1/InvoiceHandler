@@ -19,7 +19,7 @@ Automatically extract relevant data from invoices by processing their .pdf/.xml 
 #### How to run it - 
 
 1. Clone the repository.
-2. Create a new MySQL database and a user. (Credentials- database name = kredX, user = kredx, password = kredx, host = localhost)
+2. Create a new MySQL database and a user. (Make sure to update your credentials in the handler.py file)
 3. Create a new table -
 
    Name -   *inputdata*
